@@ -3,7 +3,7 @@
   <p>
     A registration form for a gym app that also validates the user's input. Validations are handled by the browser itself using HTML form validation.
     <br />
-    <a href="form-validation-git-master.mzelinka17.vercel.app/"><strong>Website »</strong></a>
+    <a href="https://form-validation-git-master.mzelinka17.vercel.app/"><strong>Website »</strong></a>
   </p>
 </div>
 
